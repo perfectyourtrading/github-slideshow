@@ -1,4 +1,4 @@
-<h1> This is the new file <h1> <br>
+<h1> This is the new file </h1> <br>
   
   String:  A = Name of something
   print(A): Name of something
